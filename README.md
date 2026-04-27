@@ -1,4 +1,5 @@
 💳 Loan Application Risk Profiling Using Business Intelligence (Power BI)
+
 📌 Project Overview
 
 This project presents a Business Intelligence (BI) solution for loan application risk profiling using Power BI. The system transforms raw loan data into interactive dashboards to help financial institutions make faster, data-driven, and transparent lending decisions.
